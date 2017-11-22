@@ -1,3 +1,0 @@
-#Format: NumSlots,Skill1,Points1,Skill2,Points2
-0,Auto-Guard,10,,
-1,Evade Dist,3,,
