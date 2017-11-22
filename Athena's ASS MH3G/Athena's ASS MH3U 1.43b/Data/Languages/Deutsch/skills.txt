@@ -1,0 +1,361 @@
+﻿Gift
+Lähmung
+Schlaf
+Betäuben
+Schl/Schn.
+Antisept.
+Abw.Sperre
+Dungmeist.
+Biologie
+Angriff
+Verteidigung
+Gesundheit
+ErholGschw
+Schutz
+Wegstecken
+Schn.lad.
+Experte
+Klopfer
+Zerstörer
+Knock-out
+Ausd.Entz.
+Konstitutn
+Gehör
+Windabwehr
+Bebenabw.
+Hitzeabw.
+Kälteabw.
+Ausdauer
+AusdErholg
+Ausweichen
+Ausweichdst
+Tauchentf.
+Spürsinn
+Block
+Block hoch
+Autoblock
+Status
+Feuerangr.
+Wasserang.
+Donnerang.
+Eisangriff
+Drachenan.
+Element
+Feuerabw.
+Wasserabw.
+Donnerabw.
+Eisabwehr
+Drachenabw.
+Schärfe
+Handwerk
+Fechten
+Schärfer
+StrafHieb
+KritHieb
+NachlGesch
+Kapazität
+Schnellfeu
+Rückstoß
+Präzision
+NormlShoch
+PiercShoch
+SchrtShoch
+NormlSzufü
+PiercSzufü
+SchrtSzufü
+CragSzufüg
+StreuSzufüg
+SchnittSzf
+SchleimSzf
+Gift B+
+Lähm B+
+Schlaf B+
+Kraft B+
+Nahkampf B+
+Ermüd. B+
+Schleim B+
+Maestro
+Artillerie
+BombStärk.
+ErholStufe
+Großraum
+EwigeKraft
+Hunger
+Schlemmen
+Essen
+Fleischfr.
+Combi-Rate
+CombiBonus
+Sammeln
+SchnllSamm
+Laune
+Honig
+AmulFinder
+Schicksal
+Zerlegen
+Beruhigung
+Wahrnehmen
+Vision
+Rucksack
+Ranger
+Anti-Dieb
+SchnllAufb
+Flammenau.
+Sauerstoff
+Stromabw.
+Schwimmen
+Seefest
+Potenzial
+Überleben
+Brachial
+Elan
+Unversehrt
+FreiElemnt
+Brandabw.
+Mut
+Teamspiel.
+Teamanfüh.
+Statusabw.
+Zorn
+Schneidmst
+Sichere Hd
+Unerschütt
+RumpfVerst
+
+Gift nichtig
+Doppeltes Gift
+Lähmung nichtig
+Doppelte Lähmung
+Schlaf nichtig
+Doppelter Schlaf
+Halbes Betäuben
+Betäuben nichtig
+Dopp. Betäuben
+Schl/Schn nicht.
+Antiseptik
+Eisenhaut
+Dungbomben-Exp.
+Bio-Meister
+Angriff +
+Angriff ++
+Angriff +++
+Angriff -
+Angriff --
+Angriff ---
+Verteidigung +
+Verteidigung ++
+Verteidigung +++
+Verteidigung -
+Verteidigung --
+Verteidigung ---
+Gesundheit +20
+Gesundheit +50
+Gesundheit -10
+Gesundheit -30
+ErholGeschw +1
+ErholGeschw +2
+ErholGeschw -1
+ErholGeschw -2
+Göttl. Schutz
+Dämon. Schutz
+Schn. Wegstecken
+Fokus
+Ablenkung
+Krit. Auge +1
+Krit. Auge +2
+Krit. Auge +3
+Krit. Auge -1
+Krit. Auge -2
+Krit. Auge -3
+Schwächeausnutzg
+Teilebrechen
+Knockout König
+Ausdauerdieb
+Konstitution +1
+Konstitution +2
+Konstitution -1
+Konstitution -2
+Ohrstöpsel
+Best. Ohrstöpsel
+Windsicher[H]
+Windsicher[N]
+Bebensicher
+Hitze beenden
+Hitze erhöhen
+Kälte beenden
+Kälte erhöhen
+Läufer
+Sprinter
+Ausdauererhlg. +
+Ausdauererhlg. -
+Ausweichen +1
+Ausweichen +2
+Ausweichen -1
+Ausweichen hoch
+Taucherweiterung
+Schleichen
+Provokation
+Block +1
+Block +2
+Block -1
+Blockstärkung
+Auto-Guard
+Statusangriff +1
+Statusangriff +2
+Statusa. runter
+Feuerangriff +1
+Feuerangriff +2
+Feuerang. runter
+Wasserangriff +1
+Wasserangriff +2
+Wasserang. runter
+Donnerangriff +1
+Donnerangriff +2
+Donnerang. runter
+Eisangriff +1
+Eisangriff +2
+Eisangr. runter
+Drachenangriff +1
+Drachenangriff +2
+Drachenang. runter
+Elementang. hoch
+Elementa. runter
+Feuerabwehr +15
+Feuerabwehr +20
+Feuerabwehr -20
+Wasserabwehr +15
+Wasserabwehr +20
+Wasserabwehr -20
+Donnerabwehr +15
+Donnerabwehr +20
+Donnerabwehr -20
+Eisabwehr +15
+Eisabwehr +20
+Eisabwehr -20
+Drachenabwehr +15
+Drachenabwehr +20
+Drachenabwehr -20
+Scharfschwert
+Stumpf
+Schärfe +1
+Übersinn. Kraft
+Schn. Schärfen
+Langs. Schärfen
+Strafender Hieb
+Kritischer Hieb
+NachlGesch +1
+NachlGesch +2
+NachlGesch +3
+NachlGesch -1
+NachlGesch -2
+NachlGesch -3
+Kapazität hoch
+Bonus-Schuss
+Rück. runter +1
+Rück. runter +2
+Rück. runter +3
+Rück. runter -1
+Rück. runter -2
+Rück. runter -3
+Ruhige Hand +1
+Ruhige Hand +2
+Ruhige Hand -1
+Ruhige Hand -2
+Norm./Schn. hoch
+Pierc/Pierc hoch
+Schr/StrPf hoch
+Alle Normal S vw
+Pierce S St1 vw
+Alle Pierce S vw
+Schrot S St1 vw
+Alle Schrot S vw
+Crag S St1 vw
+Alle Crag S vw
+Streu S St1 vw
+Alle Streu S vw
+Schnitt S vw
+Schleim S vw
+Giftbeschtg vw
+Lähmbeschtg vw
+Schlafbschtg vw
+Kraftbesch vw
+Nahmkampfbesch vw
+Ermüdbeschtg vw
+Schleimbschtg vw
+Horn-Maestro
+Artillerienovize
+Artillerieexper.
+Bombardier
+Erholung hoch
+Erholung runter
+Großraum +1
+Großraum +2
+Obj.nutz. hoch
+Obj.nutz runter
+Hunger nichtig
+Halber Hunter
+Mehr Hunger
+Doppelter Hunger
+Feinschmecker
+Allesfresser
+Schnellessen +1
+Schnellessen +2
+Langsamer Esser
+Fleischfan
+Kombination +20%
+Kombination +45%
+Kombination -10%
+Kombination -20%
+Kombi-Profi
+Sammeln +1
+Sammeln +2
+Sammeln -1
+Schnellsammler
+Seelenlaune
+Göttliche Laune
+Gespensterlaune
+Teufelslaune
+Honigjäger
+Amulettjäger
+Glück
+Glücksverstärker
+Pech
+Unglück
+Zerleger-Profi
+Zerlegemeister
+Fang-Experte
+Fangmeister
+Fang-Guru
+Aufspüren
+Auto-Aufspürer
+Rucksackexperte
+Naturbursche
+Anti-Dieb
+Fallenmeister
+Flammenaura
+Endlossauerstoff
+kurzer Atem
+Stromabw [N]
+Stromabw [H]
+Schwimm-Profi
+Hundepaddler
+Ozeansegen
+Adrenalin +1
+Adrenalin +2
+Pessimist
+Kräftigen
+Latente Kraft +1
+Latente Kraft +2
+Herausforder. +1
+Herausforder. +2
+Spitzenleistung
+Erwachen
+Brandsicher
+Mut
+Shakalaka-Rallye
+Shakalaka-Jubel
+Wohlbefinden
+Erwachter Zorn
+Geschl. Klinge
+Silberkugel
+Felsenfest

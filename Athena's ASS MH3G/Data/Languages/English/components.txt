@@ -1,0 +1,692 @@
+﻿Warm Pelt
+Iron Ore
+Kelbi Horn
+Airweed
+Mystery Bone
+Earth Crystal
+Machalite Ore
+Carpenterbug
+Big Fin
+Unknown Skull
+Sharpened Fang
+Bnahabra Shell
+Bnahabra Wing
+Killer Beetle
+Rhenoplos Scalp
+Rhenoplos Shell
+Ice Crystal
+G.Jaggi Hide
+G.Jaggi Claw
+Jaggi Scale
+Arzuros Shell
+Arzuros Pelt
+Jumbo Bone
+King's Beak
+G.Wroggi Hide
+Wroggi Scale
+Strange Beak
+Monster Bone M
+R.Ludroth Crest
+R.Ludroth Tail
+R.Ludroth Scale
+G.Baggi Hide
+G.Baggi Claw
+Baggi Scale
+Isisium
+Lagombi Ear
+Baggi Hide
+Barroth Ridge
+Barroth Shell
+Barroth Scalp
+Volvidon Claw
+Volvidon Shell
+Monster Fluid
+Dragonite Ore
+Gobul Whisker
+Gobul Lantern
+Gobul Hide
+Rathian Spike
+Rathian Scale
+Rathian Shell
+Uncanny Hide
+Gigginox Hide
+Poison Sac
+Pelagicite Ore
+Lightcrystal
+Amber Tusks
+Barioth Pelt
+Barioth Shell
+Great Jaggi Head
+King's Frill
+Firestone
+Nibelsnarf Scalp
+Nibelsnarf Shell
+Flying Coin
+Leviathan Coin
+Beast Coin
+Volvi Rickrack
+Lagiacrus Horn
+Lagiacrus Hide
+Lagiacrus Scale
+Rathalos Scale
+Rathalos Shell
+Rath Talon
+Duramboros Horn
+Duramboros Shell
+Monster Bone+
+Diablos Tailcase
+Diablos Shell
+Diablos Ridge
+Uragaan Shell
+Uragaan Marrow
+Uragaan Scale
+Agnaktor Shell
+Agnaktor Beak
+Agnaktor Hide
+Ceadeus Hide
+Crooked Horn
+Luminous Organ
+Carbalite Ore
+Bullfango Pelt
+King Scarab
+Gargwa Feather
+Bathycite Ore
+Avian Finebone
+Blue Kelbi Horn
+Quality Fin
+Bnaha Carapace
+Bnahabra Spine
+Rheno Carapace
+Slagtoth Hide+
+Gloamgrass Bud
+Dragon Toadstool
+Bumblepumpkin
+G.Jaggi Hide+
+Arzuros Carapace
+Stoutbone
+Hercudrome
+G.Wroggi Hide+
+Bird Wyvern Gem
+G.Baggi Hide+
+Gracium
+Lagombi Ear+
+High-qualty Pelt
+Bullfango Head
+Monster Bone L
+Wonderful Beak
+Qurupeco Wing
+C.Peco Wing
+R.Ludroth Crest+
+R.Ludroth Scale+
+Torrent Sac
+P.Ludroth Scale+
+Volvidon Claw+
+Volvi Carapace
+Monster Broth
+Rare Scarab
+Butterfly Beetle
+Fulgurbug
+Godbug
+Barroth Ridge+
+Barroth Carapace
+Fertile Mud
+J.Barroth Ridge+
+J.Barr Carapace
+Frozen Glob
+Lagombi Pelt
+Gobul Spike+
+Gobul Hide+
+Ancient Potion
+Felvine
+Pinnacle Coin
+Piscine Coin
+Commendation
+Fucium Ore
+Rathian Spike+
+Rathian Carapace
+Rath Marrow
+Inferno Sac
+P.Rath Carapace
+P.Rathian Scale+
+Monster Keenbone
+Rathian Scale+
+Uncanny Hide+
+Toxin Sac
+B.Giggi Hide+
+Pale Extract
+Plesioth Scale+
+Plesioth Fin+
+Plesioth Head
+Amber Tusks+
+Barioth Pelt+
+Freezer Sac
+Indigo Tusks+
+S.Barioth Pelt+
+S.Bari Carapace
+Nibel Carapace
+Nibelsnarf Hide+
+Wroggi Scale+
+Nargacuga Pelt+
+Narga Tailspike
+Wyvern Stone
+Arzuros Pelt+
+Lagiacrus Horn+
+Lagiacrus Hide+
+I.Lagi Horn+
+I.Lagi Hide+
+Duramboros Horn+
+Rathalos Scale+
+Rathalos Ruby
+A.Rath Carapace
+A.Rathalos Wing
+Zinogre Horn+
+Zin Electrofur
+Zinogre Carapace
+Brach Ebonshell
+Brach Scalp
+Mystery Slime
+Firecell Stone
+Duram Carapace
+Duram Tailbone
+Dragonbone Relic
+Nargacuga Fang+
+Diablos Carapace
+B.Diab Carapace
+Altaroth Stomach
+Agnak Carapace
+Agnaktor Hide+
+G.Agnak Carapace
+G.Agnak Beak
+G.Agnak Hide+
+Velvety Hide
+Uragaan Carapace
+Lava Nugget
+S.Urag Carapace
+Mohran Scale+
+Sturdy Fang+
+Mohran Carapace
+Rathian Plate
+Deviljho Scalp
+Deviljho Hide
+Deviljho Saliva
+Barioth Spike
+Brkn Skypiercer
+Skypiercer
+Alatreon Plate
+S.Barioth Claw+
+Pirate J Ticket
+S.Uragaan Scale+
+Elder Dragonbone
+Allfire Stone
+Conqueror's Seal
+Bnahabra Cutwing
+Emperor Hopper
+Rhenoplos Bone
+Massive Bone
+Supple Piel
+Prized Pelt
+Eltalite Ore
+Purecrystal
+Heavy Mossplate
+Imperial Frill
+Jaggi Scale+
+Imperial Crest
+G.Baggi Claw+
+Imperial Beak
+Arzuros Cortex
+Lagombi Auricle
+Lagombi Fur
+Great Baggi Piel
+Flutterfly
+Volvidon Talon
+Volvidon Cortex
+Monster Essence
+Meldspar Ore
+Rusted Fragment
+Hunter King Coin
+Alluring Beak
+Peco Fellwing
+Avian Stoutbone
+C.Peco Fellwing
+Chic Crest
+R.Ludroth Shard
+R.Ludroth Lash
+Flood Sac
+P.Ludroth Shard
+Plesioth Shard
+Fine Plesio Fin
+Hvy Plesio Fang
+G.Plesio Shard
+Fine G.Plesi Fin
+Fey Wyvern Gem
+Rathian Surspike
+Rathian Cortex
+Rathian Ruby
+Conflagrant Sac
+P.Rathian Cortex
+P.Rathian Shard
+Monster Slogbone
+Fine G.Agnak Fin
+J.Barroth Crown
+Hvy Amber Tusks
+Barioth Fur
+Barioth Cortex
+Cryo Sac
+Hvy Indigo Tusks
+S.Barioth Fur
+S.Barioth Cortex
+Barroth Chine
+Barroth Cortex
+Barroth Crown
+J.Barroth Chine
+J.Barroth Cortex
+Gobul Surspike
+Gobul Piel
+Gobul Kingwhiskr
+Revolting Piel
+Nightmarish Maw
+Gigginox Piel
+B.Giggi Piel
+Nibel Cortex
+Nibelsnarf Talon
+Nibelsnarf Piel
+Giant Fin
+Duram Hardhorn
+Duram Cortex
+Duram Sacrum
+R.Duram Shell
+Narga Tailspear
+Nargacuga Fur
+Narga Razor+
+G.Narga Dapples
+G.Narga Razor+
+Narga Medulla
+Crooked Hardhorn
+Deep Dragongem
+G.Ceadeus Shard
+Dark Dragongem
+Maiden Butterfly
+Dracophage Bug
+Rathalos Shard
+Rathalos Mantle
+A.Rathalos Shard
+Rathlos Fellwing
+Diablos Cortex
+Diablos Hardhorn
+Lrg Wyvern Stone
+G.Wroggi Piel
+B.Diablos Cortex
+Prized Stomach
+Agnaktor Cortex
+Agnaktor Piel
+Agnaktor Talon
+G.Agnak Cortex
+G.Agnak Piel
+Brach Ebonshell+
+Brach Scalp+
+Glowing Slime
+Lagia Hardhorn
+Lagiacrus Piel
+Lagia Sapphire
+I.Lagi Hardhorn
+I.Lagi Piel
+Lagiacrus Mantle
+Lagiacrus Plate
+Uragaan Cortex
+Uragaan Ruby
+Uragaan Scute+
+S.Uragaan Cortex
+Zinogre Hardhorn
+Zin D-Shocker
+Zinogre Cortex
+S.Zin Hardhorn
+S.Zin Cortex
+S.Zin Dragonhair
+ElderDragonBlood
+H.Jhen Shard
+Deviljho Shard
+Deviljho Coat
+Hvy L.Narga Fang
+L.Narga Dapples
+Cloudy Moonshard
+Ghostly Quartz
+S.Rathalos Shard
+Rath Gleem
+G.Rath Surspike
+G.Rathian Cortex
+H.Jhen Rockskin
+G.Ceadeus Fur
+Deviljho Ripper
+A.Lagi HardHorn
+A.Lagi Shard
+A.Lagi Dynamo
+Miralis Fireback
+Miralis Evil Eye
+Gushing Magma
+Monster Bone S
+Jaggi Hide
+Flashbug
+G.Wroggi Brace
+Vivid Feather
+Qurupeco Scale
+Spongy Hide
+R.Ludroth Claw
+Hydro Hide
+King's Crest
+Lagom Plastron
+Uroktor Scale
+Gobul Fin
+Gobul Spike
+Rathian Webbing
+Gigginox Claw
+Venom Gland
+Barioth Tail
+Nibelsnarf Hide
+Nibelsnarf Claw
+Vivid Fluid
+Rathalos Webbing
+Shell Shocker
+Duramboros Hump
+Twisted Horn
+Uragaan Jaw
+Uragaan Scute
+Agnaktor Fin
+Ceadeus Scale
+Ceadeus Fur
+Quality Sac
+G.Jaggi Claw+
+Lagom Plastron+
+Lagombi Pelt+
+Baggi Scale+
+Qurupeco Scale+
+C.Peco Scale+
+Spongy Hide+
+Hydro Hide+
+Plum Spongy Hide
+Blossom Cricket
+Large Fragment
+J.Barroth Scalp
+Gobul Fin+
+Max Potion
+Cactus Flower
+Rath Medulla
+B.Giggi Claw+
+Plesioth Webbing
+Barioth Carapace
+S.Barioth Tail
+Brilliant Fluid
+Wroggi Hide
+Nargacuga Scale+
+A.Rath Scale+
+Monster Hardbone
+Zinogre Jasper
+Thunderbug
+Brach Carapace
+Scalding Pleura+
+Thunder Sac
+B.Diablos Ridge+
+Diablos Ridge+
+Majestic Horn
+Blackcurl Horn
+Diablos Marrow
+Agnaktor Fin+
+G.Agnak Fin+
+Deviljho Fang
+Deviljho Talon
+Alatreon Talon
+Armament Invitation
+Barroth Claw+
+Great Jaggi Piel
+Arzuros Allbrace
+Blue Cutthroat
+Qurupeco Shard
+Lustrous Feather
+C.Peco Shard
+Spongy Piel
+Plum Spongy Piel
+Hrd Ples Webbing
+Rathian Shard
+Rathian Mantle
+B.Giggi Talon
+Barioth Lash
+S.Barioth Lash
+Barroth Talon
+J.Barroth Talon
+Fine Gobul Fin
+Gigginox Talon
+Foul Venom Gland
+Dazzling Fluid
+Marbled Hump
+Nargacuga Shard
+Hvy Narga Fang
+G.Narga Shard
+Hvy G.Narga Fang
+Nargacuga Mantle
+Crushing Fang
+Earth Dragongem
+Rathalos Cortex
+A.Rath Cortex
+Diablos Chine
+Blackcurl Horn+
+B.Diablos Chine
+Diablos Medulla
+Fine Agnak Fin
+Brach Cortex
+Brachydios Gem
+Lagiacrus Flail
+Lagiacrus Talon
+Uragaan Jaw+
+S.Uragaan Jaw+
+S.Uragaan Scute+
+S.Uragaan Shard
+Zin Electrofur+
+Zin Skymerald
+S.Zin Dragnshell
+S.Zin Skymerald
+Deific Fang
+Vile Fang
+L.Narga Shard
+L.Narga Razor
+S.Rath Cortex
+G.Rathian Shard
+Earth Drgnsphire
+A.Lagi Piel
+Miralis Scale
+Immortal Heart
+Miralis Hellwing
+Brach Pallium
+Whetstone
+Ivy
+Arzuros Brace
+Flintstone
+Qurupeco Feather
+Aqua Sac
+Lagombi Claw
+Barroth Claw
+Paralysis Sac
+Barioth Claw
+Frost Sac
+Altaroth Jaw
+Lagiacrus Claw
+Rathalos Tail
+Duram Tailcase
+Duram Mossplate
+Diablos Fang
+Gourmet Voucher
+Arzuros Brace+
+G.Wroggi Brace+
+Coma Sac
+Lagombi Claw+
+Voltstone
+R.Ludroth Claw+
+P.Ludroth Claw+
+Omniplegia Sac
+Bitterbug
+Slender Fragment
+J.Barroth Claw+
+Hot Pepper
+Gigginox Hide+
+Gigginox Claw+
+Fearsome Maw
+Plesioth Fang+
+Barioth Claw+
+Nibelsnarf Claw+
+Narga Razor
+Lagiacrus Claw+
+Shell Shocker+
+Lagiacrus Scale+
+I.Lagi Shocker+
+A.Rathalos Tail
+Zinogre Claw+
+Zinogre Shocker+
+Brach Pounder
+Duram Tailcase+
+Hard Mossplate
+Agnaktor Claw+
+Agnaktor Tail
+G.Agnak Claw+
+Uragaan Scale+
+Mohran Brace+
+Deviljho Scale
+Alatreon Scute
+Humspun Conch
+Quality Flint
+High Voltstone
+R.Ludroth Talon
+P.Ludroth Talon
+Uber Plesio Head
+Rath Ripper
+Brute Coin
+Barioth Talon
+S.Barioth Talon
+Lightning Sac
+Duram Hardtail
+R.Duram Hardtail
+G.Narg Tailspear
+Rathalos Lash
+A.Rathalos Lash
+G.Agnak Talon
+Brach Pounder+
+Lagiacrus Shard
+I.Lagi Shard
+I.Lagi D-Shocker
+Uragaan Shard
+Uragaan Pallium
+S.Zinogre Talon
+I.Lagi Scale+
+Deviljho Crook
+L.Narg Tailspear
+S.Rathalos Lash
+H.Jhen Allbrace
+Miralis Smelter
+Dire Dragongem
+Broken Shell
+Bone
+Immature Sponge
+Sleep Sac
+Flame Sac
+Rathalos Plate
+Agnaktor Scale
+Agnaktor Claw
+Voucher
+Stinkhopper
+Fire Herb
+Grim Venom Gland
+Rugged Pleura
+Nargacuga Tail
+Lagiacrus Tail
+Rathlos Carapace
+Zinogre Tail
+Brachydios Tail
+Uroktor Scale+
+G.Agnak Tail
+S.Uragaan Scute
+Deviljho Gem
+Alatreon Webbing
+Alatreon Tail
+Barroth Tail
+Chum-Chum Ticket
+Rugged Pleura+
+Durambolite
+R.Duram Plate
+Nargacuga Lash
+Ceadeus Tail
+Diablos Hardtail
+Scorching Pleura
+Deathly Shocker
+Zinogre Lash
+S.Zinogre Lash
+Black Blood
+Deviljho Flail
+A.Lagi D-Shocker
+Miralis Fireclaw
+Scalding Pleura
+Snakebee Larva
+Long Fragment
+J.Barroth Tail
+Gobul Lantern+
+Sleep Herb
+Dewy Pleura+
+S.Uragaan Maw
+Azure Dragongem
+Bindshroom
+Barroth Lash
+Gobul Beacon
+Stout Horn
+Drenched Pleura
+Aquaglow Jewel
+Bloodrun Jewel
+Screamer
+Sunspire Jewel
+Bird Wyvern Fang
+Adamant Seed
+Catalyst
+Dung Bomb
+Adamant Orb
+Might Seed
+Demondrug
+Mega Demondrug
+Armorskin
+Mega Armorskin
+Lazurite Jewel
+Mega Dash Juice
+Anteka Antler
+J.Barroth Lash
+Dragonfell Berry
+Whetfish
+Popfish
+Wyvern Fang
+Nitroshroom
+Wanchovy
+Field Horn
+Barrel Bomb L+
+Small Goldenfish
+Lifepowder
+Well-Done Steak
+Book of Combos 1
+Silver Egg
+Golden Egg
+Binoculars
+Dash Extract
+Sushifish
+Raw Meat
+Shock Trap
+G.Ceadeus Coat
+Pawprint Stamp
+Zinogre Talon
+Training Corps Pass
+Captain's IOU
+Mohran Shard
+Soul of Sgt. Frog
+Legend J Ticket
+Skyswayer
+Alatreon Mantle
+Mohran Rockskin
+Alatreon Pallium
+Alatreon Ripper
+Mohran Allbrace
+Alatreo Direwing
+Alatreo Diretail
+Azure Drgnsphire
+Smoke Bomb
+Studio Pass G

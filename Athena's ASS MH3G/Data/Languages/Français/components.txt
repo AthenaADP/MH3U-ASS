@@ -1,0 +1,692 @@
+﻿Peau chaude
+Minerai de fer
+Corne de Kelbi
+Herbe d'air
+Os mystère
+Cristal de terre
+Machalite
+Bâtinsecte
+Grande nageoire
+Crâne inconnu
+Croc aiguisé
+Carapa. Bnahabra
+Aile Bnahabra
+Scarabée tueur
+Scalp Rhenoplos
+Carap. Rhenoplos
+Cristal glacé
+Cuir gd. Jaggi
+Griffe gd. Jaggi
+Écaille Jaggi
+Carapace Arzuros
+Peau Arzuros
+Jumbos
+Bec roi
+Cuir gd. Wroggi
+Écaille Wroggi
+Bec étrange
+Os monstre moyen
+Crête Ludroth R.
+Queue Ludroth R.
+Écail.Ludroth R.
+Cuir gd. Baggi
+Griffe gd. Baggi
+Écaille Baggi
+Isisium
+Oreille Lagombi
+Cuir Baggi
+Vertèbre Barroth
+Carapace Barroth
+Scalp Barroth
+Griffe Volvidon
+Carap. Volvidon
+Fluide monstre
+Dragonite
+Moustache Gobul
+Lanterne Gobul
+Cuir Gobul
+Pointe Rathian
+Écaille Rathian
+Carapace Rathian
+Cuir étrange
+Cuir Gigginox
+Poche de poison
+Pelagicite
+Cristal lumière
+Défenses ambre
+Peau Barioth
+Carapace Barioth
+Tête gd. Jaggi
+Collerette roi
+Pierre-feu
+Scalp Nibelsnarf
+Cara. Nibelsnarf
+Pièce volants
+Pièce Leviathan
+Pièce bêtes
+Feston Volvidon
+Corne Lagiacrus
+Cuir Lagiacrus
+Écail. Lagiacrus
+Écaille Rathalos
+Carapa. Rathalos
+Griffe Rath
+Corne Duramboros
+Cara. Duramboros
+Os de monstre+
+Étui queue Diab.
+Carapace Diablos
+Vertèbre Diablos
+Carapace Uragaan
+Moelle Uragaan
+Écaille Uragaan
+Carapa. Agnaktor
+Bec Agnaktor
+Cuir Agnaktor
+Cuir Ceadeus
+Corne courbée
+Organe lumineux
+Carbalite
+Peau Bullfango
+Roi scarabée
+Plume de Gargwa
+Bathycite
+Finos aviaire
+Corn.Kelbi bleue
+Nageoire qualité
+Cuira. Bnahabra
+Dard Bnahabra
+Cuira. Rhenoplos
+Cuir Slagtoth+
+Fleur crépuscule
+Champi dragon
+Potironron
+Cuir gd. Jaggi+
+Cuirasse Arzuros
+Résistos
+Hercudrome
+Cuir gd. Wroggi+
+Gem. Wyv.aviaire
+Cuir gd. Baggi+
+Gracium
+Oreille Lagombi+
+Peau gd qualité
+Tête Bullfango
+Os monstre grand
+Bec merveilleux
+Aile Qurupeco
+Aile Qurupeco V.
+Crt Ludroth R.+
+Écai.Ludroth R.+
+Poche de torrent
+Éca. Ludroth P.+
+Griffe Volvidon+
+Cuiras. Volvidon
+Brouet monstre
+Scarabée rare
+Scara-papillon
+Fulgurinsecte
+Insecte-dieu
+Vert. Barroth+
+Cuirasse Barroth
+Boue fertile
+Ver. Barroth J.+
+Cuir. Barroth J.
+Globe gelé
+Peau Lagombi
+Pointe Gobul+
+Cuir Gobul+
+Potion ancestrale
+Felvine
+Pièce apogée
+Pièce nageurs
+Récompense
+Fucium
+Pointe Rathian+
+Cuirasse Rathian
+Moelle Rath
+Poche infernale
+Cuir. Rathian R.
+Éca. Rathian R.+
+Acéros monstre
+Écaille Rathian+
+Cuir étrange+
+Poche de toxine
+Cuir Giggi F.+
+Extrait pâle
+Écai. Plesioth+
+Nag. Plesioth+
+Tête Plesioth
+Défenses ambre+
+Peau Barioth+
+Poche de gel
+Défenses indigo+
+Peau Barioth S.+
+Cuir. Barioth S.
+Cuir. Nibelsnarf
+Peau Nibelsnarf+
+Écaille Wroggi+
+Peau Nargacuga+
+Piqueue Narga
+Pierre de Wyvern
+Peau Arzuros+
+Corne Lagiacrus+
+Cuir Lagiacrus+
+Corne Lagi I.+
+Cuir Lagi I.+
+Corne Duram+
+Écail. Rathalos+
+Rubis Rathalos
+Cuir. Rath A.
+Aile Rath. A.
+Corne Zinogre+
+Électrif. Zino
+Cuirasse Zinogre
+Coquébène Brach
+Scalp Brachydios
+Poisse étrange
+Pierre-lave
+Cuir. Duramboros
+Coccyx Duram
+Relique os drag.
+Croc Nargacuga+
+Cuirasse Diablos
+Cuir. Diablos N.
+Estomac Altaroth
+Cuiras. Agnaktor
+Cuir Agnaktor+
+Cuir. Agnak G.
+Bec Agnaktor G.
+Cuir Agnak G.+
+Cuir feutré
+Cuirasse Uragaan
+Pépite-lave
+Cuir. Uragaan A.
+Écaille Mohran+
+Croc solide+
+Cuirasse Mohran
+Plaque Rathian
+Scalp Deviljho
+Cuir Deviljho
+Salive Deviljho
+Pointe Barioth
+Perce-ciel brisé
+Perce-ciel
+Plaque Alatreon
+Gri. Barioth S.+
+Pirate J Ticket
+Éca. Uragaan A.+
+Os dragon ancien
+Pierre ardente
+Sceau conquérant
+Tranch. Bnahabra
+Sauteur empereur
+Os Rhenoplos
+Os massif
+Pelage souple
+Peau prisée
+Eltalite
+Cristal pur
+Mousse lourde
+Collerette impé.
+Écaille Jaggi+
+Crête impériale
+Griffe gd.Baggi+
+Bec impérial
+Cortex Arzuros
+Oreillette Lago.
+Four. Lagombi
+Pelage gd. Baggi
+Papiluit
+Serre Volvidon
+Cortex Volvidon
+Essence monstre
+Meldium
+Fragment rouillé
+Pièce roi chass.
+Bec élégant
+Rigipl. Qurupeco
+Résistos aviaire
+Rigipl. Peco V.
+Crête chic
+Éclat Ludroth R.
+Fouet Ludroth R.
+Poche crue
+Éclat Ludroth P.
+Éclat Plesioth
+N. raf. Plesioth
+Croc Plesio lrd
+Écl. Plesioth V.
+N. raf. Plesi V.
+Pierre Wyv. pure
+Surpoin. Rathian
+Cortex Rathian
+Rubis Rathian
+Poche explosive
+Cort. Rathian R.
+Écl. Rathian R.
+Robustos monstre
+N. raf. Agnak G.
+Cour. Barroth J.
+Déf. ambre ldes
+Fourrure Barioth
+Cortex Barioth
+Poche cryo
+Déf. indigo ldes
+Four. Barioth S.
+Cort. Barioth S.
+Échine Barroth
+Cortex Barroth
+Couronne Barroth
+Éch. Barroth J.
+Cort. Barroth J.
+Surpointe Gobul
+Pelage Gobul
+Bacchante Gobul
+Pelage infect
+Gueule cauchemar
+Pelage Gigginox
+Pelage Giggi F.
+Cortex Nibel
+Serre Nibelsnarf
+Pela. Nibelsnarf
+Nageoire géante
+Durcorne Duram
+Cort. Duramboros
+Sacrum Duram
+Carapa. Duram R.
+Poinqueue Narga
+Four. Nargacuga
+Rasoir Narga+
+Taches Narga V.
+Rasoir Narga V.+
+Medulla Narga
+Durcorne courbée
+Gem.dragon prof.
+Éclat Ceadeus B.
+Gem.dragon noire
+Papillon pucelle
+Insecte draco
+Éclat Rathalos
+Mante Rathalos
+Éclat Rath A.
+Rigipl. Rathalos
+Cortex Diablos
+Durcorne Diablos
+Pierre Wyv. lge
+Pelage gd.Wroggi
+Cort. Diablos N.
+Estomac prisé
+Cortex Agnaktor
+Pelage Agnaktor
+Serre Agnaktor
+Cortex Agnak G.
+Pelage Agnak G.
+Coquébène Brach+
+Scalp Brach+
+Poisse luisante
+Durcorne Lagia
+Pelage Lagiacrus
+Saphir Lagia
+Durcorne Lagi I.
+Pelage Lagi I.
+Mante Lagiacrus
+Plaque Lagiacrus
+Cortex Uragaan
+Rubis Uragaan
+Scutum Uragaan+
+Cor. Uragaan. A.
+Durcorne Zinogre
+Électric Zinogre
+Cortex Zinogre
+Durc. Zinogre S.
+Cort. Zinogre S.
+Dracopeau Zin S.
+Sang Anc. dragon
+Éclat Jhen S.
+Éclat Deviljho
+Pelage Deviljho
+Croc Narg S. lrd
+Taches Narga S.
+Éclalune trouble
+Quartz fantôme
+Éclat Rath Ar.
+Lueur Rath
+Surp. Rathian D.
+Cort. Rathian D.
+Cuiroc Jhen S.
+Four. Ceadeus B.
+Déchir. Deviljho
+Durcorne Lagi A.
+Éclat Lagi A.
+Dynamo Lagi A.
+Coque-f. Miralis
+Malœil Miralis
+Magma explosif
+Os monstre petit
+Cuir Jaggi
+Flashinsecte
+Att. gd. Wroggi
+Plume vive
+Écail. Qurupeco
+Cuir spongieux
+Grif.Ludroth R.
+Cuir aquatique
+Crête roi
+Plastron Lagombi
+Écaille Uroktor
+Nageoire Gobul
+Pointe Gobul
+Palmure Rathian
+Griffe Gigginox
+Glande venin
+Queue Barioth
+Peau Nibelsnarf
+Gri. Nibelsnarf
+Fluide vif
+Palmure Rathalos
+Électricarapace
+Bosse Duramboros
+Corne tordue
+Mâchoire Uragaan
+Scutum Uragaan
+Nageoi. Agnaktor
+Écaille Ceadeus
+Fourrure Ceadeus
+Poche qualité
+Griffe gd.Jaggi+
+Plast. Lagombi+
+Peau Labombi+
+Écaille Baggi+
+Écail. Qurupeco+
+Écail. Peco V.+
+Cuir spongieux+
+Cuir aquatique+
+Cuir spon. prune
+Grillon fleuri
+Large fragment
+Sca. Barroth J.
+Nageoire Gobul+
+Potion secrète
+Fleur de cactus
+Medulla Rath
+Griffe Giggi F.+
+Palmure Plesioth
+Cuirasse Barioth
+Queue Barioth S.
+Fluide brillant
+Cuir Wroggi
+Écai. Nargacuga+
+Éca. Rath A.+
+Duros monstre
+Jaspe Zinogre
+Foudrinsecte
+Cuir. Brachydios
+Plèvre brûlante+
+Poche de foudre
+Ver. Diablos N.+
+Vert. Diablos+
+Corne grandiose
+Corne torsadée
+Moelle Diablos
+Nageo. Agnaktor+
+Nag. Agnak G.
+Croc Deviljho
+Griffe Deviljho
+Griffe Alatreon
+Armament Invitation
+Griffe Barroth+
+Pelage gd. Jaggi
+Suratt. Arzuros
+Couperet bleu
+Éclat Qurupeco
+Plume lustrée
+Éclat Peco V.
+Pelage spong.
+Pel. spon. prune
+Pal. Plesio dure
+Éclat Rathian
+Mante Rathian
+Serre Giggi F.
+Fouet Barioth
+Fouet Barioth S.
+Serre Barroth
+Ser. Barroth J.
+Nag. raff. Gobul
+Serre Gigginox
+G. venin putride
+Fluide éclatant
+Bosse marbrée
+Éclat Nargacuga
+Croc Narga lrd
+Éclat Narga V.
+Croc Narg V. lrd
+Mante Nargacuga
+Croc broyeur
+Gem.dragon terre
+Cortex Rathalos
+Cortex Rath A.
+Échine Diablos
+Corne torsadée+
+Éch. Diablos N.
+Medulla Diablos
+Nag. raff. Agnak
+Cort. Brachydios
+Gemme Brachydios
+Traîne Lagiacrus
+Serre Lagiacrus
+Mâch. Uragaan+
+Mâc. Uragaan A.+
+Scu. Uragaan A.+
+Écl. Uragaan A.+
+Électrif. Zino+
+Célémeraude Zin
+Coque Zinogre S.
+Célé. Zinogre S.
+Croc divin
+Croc vile
+Éclat Narga S.
+Rasoir Narga S.
+Cortex Rath Ar.
+Écl. Rathian D.
+Sph. drag. terre
+Pelage Lagi A.
+Écaille Miralis
+Cœur immortel
+Ailenfer Miralis
+Pallium Brach
+Aiguisoir
+Lierre
+Attelle Arzuros
+Silex
+Plume Qurupeco
+Poche d'eau
+Griffe Lagombi
+Griffe Barroth
+Poche paralysie
+Griffe Barioth
+Poche de givre
+Mâch. Altaroth
+Griffe Lagiacrus
+Queue Rathalos
+Étui queue Duram
+Mous. Duramboros
+Croc Diablos
+Coupon gourmet
+Attelle Arzuros+
+Att. gd. Wroggi+
+Poche de coma
+Griffe Lagombi+
+Pierre-volt
+Grif.Ludroth R.+
+Gri. Ludroth P.+
+Poche omniplégie
+Amerinsecte
+Fragment effilé
+Gri. Barroth J.+
+Piment fort
+Cuir Gigginox+
+Griffe Gigginox+
+Gueule terrif.
+Croc Plesioth+
+Griffe Barioth+
+Gri. Nibelsnarf+
+Rasoir Narga
+Grif. Lagiacrus+
+Électricarapace+
+Écail.Lagiacrus+
+Électro Lagi I.+
+Queue Rath A.
+Griffe Zinogre+
+Électro Zinogre+
+Poudre Brach
+Ét. queue Duram+
+Mousse robuste
+Griffe Agnaktor+
+Queue Agnaktor
+Griffe Agnak G.+
+Écaille Uragaan+
+Attelle Mohran+
+Écaille Deviljho
+Scutum Alatreon
+Méloconque
+Silex de qualité
+Mega pierre-volt
+Serre Ludroth R.
+Serre Ludroth P.
+Super tête Ples
+Déchireur Rath
+Pièce brutaux
+Serre Barioth
+Ser. Barioth S.
+Poche d'éclair
+Durqueue Duram
+Durq. Duram R.
+Poinq. Narga V.
+Fouet Rathalos
+Fouet Rath A.
+Serre Agnak G.
+Poudre Brach+
+Éclat Lagiacrus
+Éclat Lagi I.
+Électric Lagi I.
+Éclat Uragaan
+Pallium Uragaan
+Serre Zinogre S.
+Écaille Lagi I.+
+Crochet Deviljho
+Poinq. Narga S.
+Fouet Rath Ar.
+Suratt. Jhen. S.
+Fonderie Miralis
+Gem.dragon Miral
+Carapace cassée
+Os
+Éponge immature
+Poche somnifère
+Poche de flamme
+Plaque Rathalos
+Écaille Agnaktor
+Griffe Agnaktor
+Coupon
+Fétisauteur
+Herbe de feu
+G. venin infâme
+Plèvre coriace
+Queue Nargacuga
+Queue Lagiacrus
+Cuiras. Rathalos
+Queue Zinogre
+Queue Brachydios
+Écaille Uroktor+
+Queue Agnak G.
+Scu. Uragaan A.
+Gemme Deviljho
+Palmure Alatreon
+Queue Alatreon
+Queue Barroth
+Ticket ami
+Plèvre coriace+
+Durambolite
+Plaque Duram R.
+Fouet Nargacuga
+Queue Ceadeus
+Durqueue Diablos
+Plèvre torride
+Électrichoc
+Fouet Zinogre
+Fouet Zinogre S.
+Sang noir
+Traîne Deviljho
+Électric Lagi A.
+Griffeu Miralis
+Plèvre brûlante
+Larve-serpent
+Long fragment
+Queue Barroth J.
+Lanterne Gobul+
+Herbe sommeil
+Plèvre humide+
+Mâc. Uragaan A.
+Gem.dragon azur
+Champimmobile
+Fouet Barroth
+Balise Gobul
+Corne épaisse
+Plèvre trempée
+J. reflet aqua
+Joyau de sang
+Hurleur
+J.flèche solaire
+Croc wyv.aviaire
+Graine armure
+Catalyseur
+Bombe de bouse
+Orbe armure
+Graine pouvoir
+Potion du démon
+Potion du démon +
+Potion de pierre
+Potion de pierre +
+Joyau Lazurite
+Méga jus énergie
+Corne d'Anteka
+Fouet Barroth J.
+Baie dragon
+Poissaiguiseur
+Poisséclate
+Croc de Wyvern
+Champinitro
+Wanchois
+Corne de chasse
+Gd bombe baril+
+Pt Poissondor
+Poudre de vie
+Steak à point
+Alchimie, tome 1
+Œuf d'argent
+Œuf d'or
+Jumelles
+Extrait sprint
+Sushipoisson
+Viandre crue
+Piège à choc
+Pela. Ceadeus B.
+Pattes-de-chat
+Serre Zinogre
+Training Camp Pass
+Gratitude capitaine
+Éclat Mohran
+Soul of Sgt. Frog
+Legend J Ticket
+Règne-ciel
+Mante Alatreon
+Cuiroc Mohran
+Pallium Alatreon
+Déchir. Alatreon
+Suratt. Mohran
+Vilaile Alatreon
+Vileq. Alatreon
+Sph. dragon azur
+Bombe de fumée
+スタジオGパス

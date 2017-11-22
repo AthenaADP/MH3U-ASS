@@ -1,0 +1,314 @@
+﻿(Traduction française : RainbowRollD)
+Poison
+Paralysie
+Sommeil
+Étourdir
+Boue/Neige
+Stériliser
+Assurance
+Bousier
+Biologie
+Attaque
+Défense
+Vie
+Récup.
+Protection
+Rengainage
+Charger
+Expert
+Attendrir
+Destruction
+KO
+Drainer
+Ninja
+Ouïe
+Vent
+Séisme
+Chaleur
+Froid
+Stamina
+Récupérer
+Évasion
+Esquive
+Dérobade
+Sens
+Garde
+Paladin
+Garde auto
+Statut
+Att. Feu
+Att. Eau
+At. Foudre
+Att. Glace
+At. Dragon
+Élémental
+Feu
+Eau
+Foudre
+Glace
+Dragon
+Tranchant
+Artisanat
+Escrime
+Aiguiseur
+Punition
+Critique
+Recharger
+Munitions
+Sniper
+Recul
+Précision
+Normale G
+Perçante G
+Plomb G
+Normale +
+Perçante +
+Plomb +
+Explosive +
+Frag. +
+Tranch. +
+Poiss. +
+E. pois. +
+E. para. +
+E. somm. +
+E. éner. +
+E. càc +
+E. épui. +
+E. poiss.+
+Musique
+Artillerie
+Bombardier
+Restaurer
+Soutien
+Objets
+Appétit
+Gastronome
+Repas
+Carnivore
+Inventeur
+Alchimiste
+Collecte
+Chapardeur
+Lubie
+Miel
+Charme
+Destin
+Dépeçage
+Capture
+Perception
+Lucidité
+Convoyeur
+Ranger
+Antivol
+Piège
+Aura feu
+Oxygène
+Courant
+Natation
+Aquatique
+Potentiel
+Survivant
+Puissance
+Courage
+Indemne
+Réveil
+Fléau
+Bravoure
+Collectif
+Leader
+Res Statut
+Furie
+Aiguiseur (Edgemaster)
+Fermeté
+Constance
+&Fichier
+&Quitter
+&Options
+Afficher tous les &talismans
+Afficher les tables &maudites
+&Aide
+&FAQ
+Vérifier les &mises à jour…
+À &propos
+Critères de recherche
+Fentes :
+Talent 1 :
+Talent 2 :
+Table
+résultat
+résultats
+RN#
+Seed
+(aucun)
+&Fermer
+Trier résultats par ta&lent
+Trier résultats par &RN#
+Trier liste de talents de A à &Z
+&Exporter résultats
+Fichier texte
+Toutes les tables
+#Format : type,num,seed,arbres talent/fentes
+#Format : table,type,num,seed,arbres talent/fentes
+???Que sont les tables de talismans (en anglais : « charm tables ») ?
+Les tables de talismans (aussi appelées « tableaux de talismans/charmes ») prédéterminent les talismans que vous pouvez obtenir dans le jeu. En fonction de la table à laquelle votre personnage est associé, les talismans que vous trouverez au cours de la partie auront des talents et un nombre de fentes bien particuliers. Ainsi, vous pouvez obtenir des talismans que d'autres joueurs n'auront jamais, et vice versa.
+
+Beaucoup de talismans apparaissent sur toutes les tables ou la majorité d'entre elles, cependant il existe aussi des talismans présents sur un nombre restreint de tables. Enfin, certains talismans ne peuvent être obtenus qu'avec UNE SEULE table.
+
+Monster Hunter 3 Ultimate possède 17 tables de talismans différentes ; lorsque vous créez un nouveau personnage, le jeu l'associe à l'une de ces 17 tables de manière aléatoire.
+
+Il est IMPOSSIBLE de modifier la table de talismans liée à votre personnage. Vous devrez en refaire un autre si votre table ne vous convient pas.
+???Comment connaître la table de talismans associée à mon personnage ?
+Il existe deux méthodes pour déterminer la table de talismans que le jeu a attribué à votre personnage.
+
+ • La PREMIÈRE méthode, la plus rapide, consiste à regarder les objets rapportés par les bateaux de pêche du village Moga. Envoyez vos bateaux de pêche vers la Côte Moga (1★) pour 30 points de ressource. Lorsqu'ils reviennent, relevez les objets que chaque bateau ramène, en quelle quantité et dans quel ordre ils apparaissent dans les cases. Ensuite, entrez ces données sur un site/programme parmi la liste suivante :
+
+http://forums.minegarde.com/topic/6821-athenas-fish-finder (programme Windows en français, à télécharger)
+http://mhvuze.de/3ucharm/fishFR/ (site en français)
+http://www1.harenet.ne.jp/cgi-bin/cgiwrap/mina-to/tsearch.cgi (site en japonais)
+
+Sur la page de résultats des deux sites (2ème & 3ème liens de la liste ci-dessus), les cercles ○ indiquent les tables possibles. Vous devrez probablement envoyer plusieurs fois votre ou vos bateau(x) de pêche afin que l'outil puisse détecter votre table de talismans.
+Astuce : pour faire avancer les jours dans le jeu (et donc faire revenir vos bateaux plus vite), prenez au moins deux Cornes de Kelbi dans votre bourse et faites la quête 1★ « Chasse à l'ordonnance » dont l'objectif est de livrer 2 Cornes de Kelbi. N'hésitez pas à utiliser des Trouve-poisson pour améliorer les prises de pêche de vos bateaux.
+
+
+ • La SECONDE méthode consiste à entrer les propriétés de vos talismans – talents, nombre de points de talent et fentes – sur un site Internet ou dans un programme (liens ci-dessous). Pour qu'elle fonctionne, vous devez posséder au moins une dizaine de talismans pas trop banals, ce qui implique que vous ayez passé assez de temps sur le jeu (plusieurs heures).
+
+Ouvrez votre boîte à équipements et entrez manuellement les propriétés de vos talismans dans l'un des deux outils ci-dessous. Il analysera votre liste de talismans et indiquera la table de talismans à laquelle votre personnage appartient. Plus le nombre de talismans que vous entrez est grand, plus vous aurez de chances de connaître la table de talismans correspondant à votre personnage. Si vous n'avez pas assez de talismans ou qu'ils sont trop communs, l'outil ne sera pas en mesure de fournir un résultat précis : il ne vous donnera non pas 1 mais plusieurs tables susceptibles d'être associées à votre personnage, sans pouvoir déterminer laquelle exactement.
+
+Outil 1 (programme Windows en français, à télécharger) : http://forums.minegarde.com/topic/5304-athenas-armor-set-search-for-mh3g/
+Outil 2 (site en japonais) : http://mh.websimu.mydns.jp/3g_oma/xxx/table.php
+???Le choix d'une table de talismans a-t-il réellement une importance ?
+Si vous êtes un joueur occasionnel et que vous ne vous ne voulez pas vous prendre la tête, ne vous embêtez pas avec cette histoire de tables de talismans. Fermez ce programme et amusez-vous sur Monster Hunter 3 Ultimate.
+
+Si vous comptez passer des dizaines voire des centaines d'heures sur le jeu, si vous aimez utiliser des mix d'armure pour obtenir les meilleures combinaisons de talents possibles, alors il est FORTEMENT recommandé de vérifier quel est la table de talismans associée à votre personnage le plus tôt possible.
+
+Le plus important, c'est de vous assurer que vous n'êtes pas dans l'une des 5 tables « maudites » (11, 12, 15, 16 et 17) : celles-ci contiennent très peu de talismans et la plupart sont mauvais. Toutes les autres tables se valent plus ou moins.
+
+Après, si vous avez l'intention de faire des speedruns / du « time attack » (TA), si vous prévoyez d'utiliser un type d'arme en particulier ou si vous avez besoin d'un talisman présent dans une seule table pour vos mix d'armure, il est évidemment conseillé de faire en sorte que votre personnage corresponde à la table de talismans désirée.
+???Que sont les tables « maudites » ?
+Les tables de talismans numéros 11, 12, 15, 16 et 17 sont dites « MAUDITES » (en anglais : « CURSED charm tables »). Pour une raison inconnue, elles possèdent beaucoup moins de talismans : entre 200 et 800 pour les tables maudites, contre plus de 21 000 talismans dans les autres tables. Qui plus est, les tables maudites contiennent très peu de talismans intéressants, comme vous pourrez le constater grâce à ce logiciel.
+
+On pense aussi qu'il est impossible d'obtenir des Fragments rouillés via les bateaux de pêche avec les tables 12 et 16 ; en conséquence, vous ne pourrez pas forger d'armure Artian ou Artian X.
+
+Il est probable que cela soit dû à une erreur de programmation du jeu.
+
+Les cinq tables de talismans maudites sont placées au bas de la fenêtre du logiciel, en rouge. Vous pouvez les cacher en décochant « Afficher les tables maudites » dans le menu Options.
+???Quel est la meilleure table de talismans ?
+Il n'y a pas à proprement parler de « meilleure » table de talismans : mis à part les tables maudites, chaque table possède d'excellents talismans exclusifs (= qu'on ne retrouve dans aucune autre table). Cela dépend également les talents qui vous intéressent. Utilisez ce logiciel pour voir quels sont les talismans disponibles dans chaque tableau avec les talents que vous désirez.
+
+Le talent Tranchant +1 est très convoité par la plupart des épéistes (il est inutile pour les artilleurs). Malheureusement, il est très difficile de l'obtenir via des décorations : il faut beaucoup de fentes libres. Le meilleur moyen pour activer ce talent est de choisir des pièces d'armure adéquates couplées à un bon talisman. Chaque table (excepté les tables maudites) contient plusieurs talismans avec Artisanat +5 ; il faudrait 8 fentes libres pour arriver à 5 points en Artisanat avec des décorations. Les talismans Artisanat sont donc extrêmement utiles.
+
+La table numéro 13 a la plus grosse concentration de talismans avec Artisanat +4/+5. Les tablesx 3, 4 et 6 sont les seules à avoir un talisman Artisanat +4 avec trois fentes. Le tableau 10 contient plusieurs talismans avec Artisanat +4/+5 combiné à un autre talent intéressant, par exemple Artisanat +5 / Réveil +7 ou Artisanat +5 / Évasion +4.
+
+À vous de décider !
+???Comment changer la table de mon personnage ?
+C'est totalement IMPOSSIBLE.
+
+Une fois que vous avez créé votre personnage, le jeu l'associe à l'une des 17 tables de talismans, et ce de manière PERMANENTE. Si vous souhaitez jouer avec une autre table de talismans, vous devrez créer un nouveau personnage.
+???Comment choisir une table de talismans particulière ?
+La table de talismans associée à votre personnage est déterminée en fonction de la date et de l'heure de votre console au moment où vous le créez. En modifiant l'horloge interne de votre 3DS / Wii U et en vous aidant d'un chronomètre, vous pouvez choisir la table de talismans de votre personnage.
+
+Note : pendant la procédure, sur 3DS, désactivez les communications sans-fil en faisant glisser le bouton WIRELESS.
+
+1] Assurez-vous d'avoir une place de libre pour créer un nouveau personnage dans le jeu. Quittez le jeu et accédez aux paramètres de la console.
+2] Réglez la date de votre console sur : 21 janvier 2012.
+3] Mettez l'horloge de votre console environ deux minutes avant les heures indiquées ci-dessous (il faut que vous ayez le temps de revenir au menu principal et de lancer le jeu). Lancez le chronomètre au moment exact où vous touchez / appuyez sur le bouton OK pour valider l'heure.
+4] Lancez le jeu et positionnez le curseur sur le menu de création de nouveau personnage (« Nouveau »). Au moment PILE où vous appuyez sur A pour lancer la création d'un nouveau personnage, l'heure de votre console doit être la suivante (heure mini et heure maxi, vous avez un laps de temps de 2 ou 3 secondes) :
+
+Table 1 : 00:14:11 ↔ 00:14:13
+Table 2 : 02:14:39 ↔ 02:14:42
+Table 3 : 00:11:28 ↔ 00:11:30
+Table 4 : 00:05:47 ↔ 00:05:49
+Table 5 : 00:56:43 ↔ 00:56:45
+Table 6 : 00:42:17 ↔ 00:42:20
+Table 7 : 01:43:58 ↔ 01:44:01
+Table 8 : 09:25:48 ↔ 09:25:51
+Table 9 : 07:09:58 ↔ 07:10:01
+Table 10 : 00:14:43 ↔ 00:14:45
+Table 13 : 00:07:46 ↔ 00:07:48
+Table 14 : 00:17:02 ↔ 00:17:05
+
+
+  • EXEMPLE pour la table 1 :
+Réglez l'heure de votre console à minuit douze (00:12:00), lancez le chrono pile au moment où vous validez la nouvelle heure.
+Quittez les paramètres, lancez le jeu. Entrez dans le menu de création de nouveau personnage à 00:14:11 ou 00:14:12 (dans l'idéal) ou 00:14:13, c'est-à-dire lorsque votre chronomètre affichera 2 minutes et 11/12/13 secondes.
+
+/!\ N'oubliez pas ensuite de bien VÉRIFIER la table sur laquelle vous êtes tombé avec la méthode des bateaux de pêche.
+Note : Les tables maudites ne sont pas listées ici, mais vous pourrez trouver les timings à respecter en cherchant sur Internet.
+
+
+Si vous trouvez cette procédure un peu compliquée et que vous cherchez juste à éviter les tables maudites, il vous suffit de créer un personnage normalement et de regarder à quelle table il a été associé grâce à la méthode des bateaux de pêche. Si par malheur vous êtes tombé sur une table maudite, recréez un personnage. Vous n'aurez probablement pas à faire cette manipulation plus d'une ou deux fois : en effet, les chances de tomber sur une table maudite sont faibles.
+???-
+???À quoi sert l'option « Afficher tous les talismans » ?
+Par défaut, le programme n'affiche aucun talisman si vous ne sélectionnez pas de talent et que le nombre de fentes est inférieur à 3. Cette option vous permet donc de forcer l'affichage des résultats ; ainsi, en mettant le nombre de fentes à 0 et en ne sélectionnant aucun talent, le programme listera TOUS les talismans de chaque table.
+
+Attention, le chargement des résultats peut prendre plusieurs dizaines de secondes.
+???Un talisman, c'est quoi ?
+Un talisman est une amulette que votre chasseur peut porter sur lui, en plus de l'arme et des 5 parties d'armure. Les talismans sont considérés comme des équipements : ils sont donc rangés dans votre boîte à équipements (avec les armes et les armures) et ils ne prennent pas de place dans votre bourse à objets.
+Vous pouvez obtenir des talismans en minant des rochers à l'aide d'une pioche, et certaines quêtes donnent des talismans en guise de récompense.
+
+Les talismans vous donnent un nombre non négligeable de points de talent et ils possèdent entre 0 et 3 fentes, ce qui vous permet d'y incruster une ou plusieurs décorations pour encore plus de points de talent. Les talismans sont donc très utiles pour ajouter des talents à votre armure et ils facilitent la création de mix d'armures.
+
+Le jeu génère aléatoirement les talismans en fonction de la table de talismans sur laquelle votre personnage se trouve. Certains talismans sont très puissants, mais difficiles à trouver. Cependant il existe beaucoup de talismans moins rares qui restent très utiles.
+
+Au départ, quand vous découvrez un talisman, celui-ci s'appelle un « charme » et vous ne verrez pas ses caractéristiques. C'est seulement à la fin de la quête, après l'écran des récompenses, que vous pourrez « évaluer » vos charmes gratuitement afin de les transformer en talismans et voir leurs points de talent ainsi que leurs fentes.
+
+Il y a 4 types de charmes : Charme mystère, Charme brillant, Charme vétuste et Charme immuable. Les charmes mystère sont les premiers que vous trouverez dans le jeu mais ils ont des talents peu intéressants et donnent peu de points de talent. Les charmes brillants et vétustes sont disponibles à partir du haut rang : ils donnent plus de points de talent que les charmes mystères et ont des talents plus puissants. Les charmes immuables sont accessibles uniquement à partir du rang G : ils peuvent avoir des talents très rares et donnent beaucoup de points de talent.
+???Qu'indiquent les couleurs (gris, jaune, rouge et bleu) ?
+***Les couleurs indiquent le type de charme :
+
+Gris = Charme mystère (bas rang)
+Jaune = Charme brillant (haut rang et rang G)
+Rouge = Charme vétuste (haut rang et rang G)
+Bleu = Charme immuable (rang G)
+
+En fin de partie, on trouve beaucoup de charmes brillants et vétustes, mais les charmes immuables restent plutôt rares.
+???Comment obtenir des talismans dans le jeu ?
+À un moment précis de l'histoire, le jeu vous donnera un talisman Garde auto +10. C'est d'ailleurs le seul et unique talisman qui permet d'activer le talent Garde auto ; AUCUN autre talisman ne donnera de points pour ce talent. De toute manière, ce talent est peu intéressant et vous ne devriez pas l'utiliser.
+
+Vous obtiendrez des talismans en tant que récompenses de quête au fil du jeu, cependant ce sont souvent les quêtes difficiles ou celles contenant plusieurs grands monstres à affronter qui donnent des talismans en récompense. Lorsque vous arriverez vers la fin du jeu, vous aurez probablement déjà pas mal de talismans en votre possession.
+
+Vous pouvez également miner les rochers avec une pioche pour obtenir des talismans. La plupart des cartes du jeu possèdent plusieurs endroits où il est possible de miner pour trouver des talismans, mais le Volcan est le lieu où vous en trouverez le plus. Les tas d'os des zones secrètes (accessibles grâce au talent de nourriture Explorateur Felyne) peuvent aussi donner des talismans.
+???Quels sont les meilleurs talismans ?
+Les meilleurs talismans sont ceux qui donnent un grand nombre de points de talent pour les talents difficiles à obtenir via des décorations, par exemple : Tranchant +1 [Artisanat +10], Réveil [Réveil +10], Évasion +1 [Évasion +10], Bouche-oreille [Ouïe +15] ou encore Critique [Critique +10]. Toutefois, c'est à VOUS de voir quels sont les talents les plus utiles à vos yeux ; les meilleurs talismans dépendront donc de vos préférences.
+
+Voici une liste non-exhaustive de talismans considérés comme les plus puissants du jeu :
+
+Artisanat +5, Réveil +7 (table 10)
+Artisanat +5, Tranchant +3 (table 9)
+Artisanat +5, 2 fentes (tables 1 et 6)
+Artisanat +5, KO +4 (table 9)
+Artisanat +4, Expert +10 (table 14)
+Artisanat +4, 3 fentes (tables 3, 4 et 6)
+Tranchant +5, 2 fentes (tables 1, 3, 8, 9 et 13)
+Tranchant +5, Expert +10 (table 13)
+Tranchant +4, Musique +10 (table 10)
+Charger +5, Expert +10 (tables 3 et 7)
+Attendrir +5, Attaque +10 (table 6)
+Normale G +5, Attaque +8 (table 4)
+Punition +5, Expert +10 (table 3)
+???Devrais-je passer du temps à collecter des talismans ?
+Si vous êtes à la recherche de talismans rares pour créer des mix d'armure très puissants en fin de jeu, vous devrez bien évidemment passer beaucoup de temps à miner dans le Volcan afin de récupérer un maximum de charmes en espérant trouver le ou les talisman(s) que vous désirez (à moins d'être extrêmement chanceux !).
+
+Dans les autres cas, il n'est pas nécessaire de farmer les talismans. Vous pourrez toujours créer des mix d'armure sympathiques, avec un peu de chance, mais rien d'exceptionnel.
+???Quelle est la meilleure méthode pour farmer les talismans ?
+Vous obtiendrez au cours du jeu de nombreux charmes brillants et vétustes en récompenses de quête. Néanmoins, si vous êtes à la recherche de talismans puissants (ou d'un talisman en particulier), il vous faudra partir à la récolte de charmes dans le Volcan.
+
+L'idéal pour farmer les charmes est une armure avec les talents Collecte +2 (augmente beaucoup les chances de collecter davantage d'objets aux points de ressources, nécessite 15 points en Collecte) et Chasse-charme (vous obtiendrez parfois 2 charmes au lieu d'un seul, nécessite 10 points de Charme). L'armure Arzuros X possède 6 points de Charme ; si vous avez déjà un talisman avec au moins Charme +4, équipez-le. Sinon, vous devrez utiliser des décorations pour arriver aux 10 points. Celles-ci se fabriquent à l'aide de composants que l'on trouve en minant sur le dos du Jhen Mohran sacré. N'hésitez pas à l'affronter uniquement pour récupérer ces composants : suicidez-vous trois fois après avoir miné sur son dos afin que la quête échoue (vous conserverez les objets trouvés lors de la quête, contrairement à un abandon). Recommencez la procédure jusqu'à ce que vous ayez de quoi fabriquer suffisamment de décorations.
+
+Les talents Chapardeur (augmente la vitesse de collecte d'objets, y compris dépeçage et minage, nécessite 10 points de Chapardeur) et Lubie divine (réduit beaucoup les chances de cassage des filinsectes / flûtes / pioches, nécessite 15 points en Lubie) sont également très pratiques pour aider à farmer les charmes. Essayez de les incorporer à votre armure s'il vous reste des fentes libres.
+
+La méthode la plus simple pour trouver beaucoup de charmes rapidement est de faire la quête « Visite : Volcan » du rang G (ou à la rigueur haut rang) : minez tous les points de minage disponibles, puis arrivé en haut du volcan, utilisez un Transporteur (ou activez l'effet spécial du Masque d'idole) pour revenir au camp, prendre le Ticket Passechat dans la boîte bleue et le livrer. Cela prend environ 4 minutes à chaque fois et vous obtiendrez des charmes, des minerais utiles que vous pourrez vendre et parfois même des armes rouillées/usées.
+
+Une autre méthode, appelée « charm sniping » en anglais, consiste à tromper le générateur de nombres pseudo-aléatoires du jeu (RNG abuse) afin d'augmenter sensiblement les chances d'obtenir un talisman en particulier. Elle est assez compliquée et ne sera pas abordée dans cette FAQ, néanmoins vous trouverez les données correspondantes à cette méthode (RN#) pour chaque talisman en faisant un clic droit sur le talisman qui vous intéresse dans le programme.
+
+Vous trouverez des explications sur la méthode du charm sniping dans ce tutoriel → http://www.jeuxvideo.com/forums/1-27200-207297-1-0-1-0-tuto-charm-sniping-v1.htm
+
+Pour plus d'informations, cherchez « charm sniping mh3u » sur Google. Veuillez noter que certaines personnes considèrent ce genre de technique comme de la triche.
+???Est-il difficile d'obtenir le talisman que l'on veut ?
+Tout dépend des talents/fentes que vous souhaitez sur votre talisman. Si vous avez besoin par exemple d'un talisman avec Att. Feu +7, vous n'aurez pas de mal à l'obtenir : tous les types de charme (sauf les charmes mystère) peuvent donner 7 points de talent ou plus en Att. Feu. À l'inverse, vous n'avez qu'1 chance sur 5400 de trouver un talisman Artisanat +4 avec 3 fentes pour chaque charme immuable évalué (trouvables uniquement au rang G).
+
+Pour voir s'il est difficile de trouver un talisman, entrez ses caractéristiques (fentes, talents et points de talent) dans « Critères de recherche » et regardez le nombre de résultats : plus il y a de résultats et plus vous aurez de chances de trouver facilement ce talisman (ou un talisman équivalent / plus puissant).
+???Générateur de sets d'armure
+Pour tirer pleinement parti des talismans que vous possédez, téléchargez le programme suivant (pour Windows, en français) : http://forums.minegarde.com/topic/5304-athenas-armor-set-search-for-mh3g
+
+Il vous permettra de créer des mix d'armure en fonction des talismans que vous lui indiquerez. Il pourra aussi déterminer la table de talismans associée à votre personnage en analysant votre liste de talismans.

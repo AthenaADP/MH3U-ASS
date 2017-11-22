@@ -1,0 +1,292 @@
+﻿-
+Poison
+Paralysis
+Sleep
+Stun
+Mud/Snow
+Antiseptic
+Def Lock
+Dungmaster
+Biology
+Attack
+Defense
+Health
+Rec Speed
+Protection
+Sheathing
+FastCharge
+Expert
+Tenderizer
+Destroyer
+KO
+Stam Drain
+Constitutn
+Hearing
+Wind Res
+Tremor Res
+Heat Res
+Cold Res
+Stamina
+Stam Recov
+Evasion
+Evade Dist
+Dive Dist
+Sense
+Guard
+Guard Up
+Auto-Guard
+Status
+Fire Atk
+Water Atk
+ThunderAtk
+Ice Atk
+Dragon Atk
+ElementAtk
+Fire Res
+Water Res
+ThunderRes
+Ice Res
+Dragon Res
+Sharpness
+Handicraft
+Fencing
+Sharpener
+PunishDraw
+Crit Draw
+Reload Spd
+Loading
+Rapid Fire
+Recoil
+Precision
+Normal Up
+Pierce Up
+Pellet Up
+Normal S+
+Pierce S+
+Pellet S+
+Crag S+
+Clust S+
+Slicing S+
+Slime S+
+Poison C+
+Para C+
+Sleep C+
+Power C+
+C.Range C+
+Exhaust C+
+Slime C+
+Maestro
+Artillery
+Bomb Boost
+Rec Level
+Wide-Range
+LastingPwr
+Hunger
+Gluttony
+Eating
+Carnivore
+Combo Rate
+Combo Plus
+Gathering
+Spd Gather
+Whim
+Honey
+Charmer
+Fate
+Carving
+Tranquilzr
+Perception
+Psychic
+Transportr
+Ranger
+Anti-Theft
+SpeedSetup
+Flame Aura
+Oxygen
+CurrentRes
+Swimming
+Sea Legs
+Potential
+Survivor
+Gloves Off
+Spirit
+Unscathed
+FreeElemnt
+Blight Res
+Guts
+TeamPlayer
+TeamLeader
+Status Res
+Fury
+EdgeMaster
+SteadyHand
+Unshakable
+&File
+&Quit
+&Options
+Show &All Charms
+Show &Cursed Tables
+&Help
+&FAQ
+Check for &Updates
+&About
+Search Criteria
+Slots
+Skill 1
+Skill 2
+Table
+result
+results
+RNG#
+Seed
+(none)
+&Close
+Sort charms by &Skill
+Sort charms by &RNG
+Sort skills &Alphabetically
+&Export to text
+Text file
+All tables
+#Format: type,num,seed,skills/slots
+#Format: table,type,num,seed,skills/slots
+???What are charm tables?
+Charm tables determine how unidentified charms are appraised at the end of the quest. Depending on which charm table you are on, the charms you gather gain different skills and slots upon appraisal.
+
+MH3G and MH3U have 17 different charm tables, and you are randomly assigned to one of them during character creation.
+
+You cannot change charm tables, ever.
+
+Many charms are available on every table, but there are also many charms that only appear on a few of them. Finally, some charms are unique to a specific table; they can only be found by characters on the right one.
+???How do I know which table I'm on?
+There are two different ways to find out which charm table you have been assigned.
+
+The first way is to analyze the charms you have found. This requires you to have played the game long enough to have accumulated at the very least a few dozen charms.
+
+Open your equipment box and manually enter your charms into one of the following tools, one by one. The tool will analyze your charms and tell you your charm table. The more charms you enter, the better odds you have of success. If you don't enter enough of them, the tool may not be able to identify a single charm table.
+
+http://mh.websimu.mydns.jp/3g_oma/xxx/table.php (online, Japanese)
+http://forums.minegarde.com/topic/5304-athenas-armor-set-search-for-mh3g (offline, Windows-only, English)
+
+The other way to find your charm table is to analyze the items you get from the Moga Fishmongress. Send your boats off to fish at (1★) Moga Coast for 30p. Note down what items you receive, how many of each, and in what order they appear. Then, enter the data into one of these websites:
+
+http://www1.harenet.ne.jp/cgi-bin/cgiwrap/mina-to/tsearch.cgi (online, Japanese)
+http://mhvuze.de/3ucharm/fishEN (online, English)
+http://forums.minegarde.com/topic/6821-athenas-fish-finder (offline, Windows only, English/French)
+
+Circles indicate possible tables, crosses indicate tables that were ruled out. You may need to send the boats off fishing several times to accumulate enough data to be certain which table you are on. You can complete the village 1★ quest “Prescription Pick-Up” (Deliver 2 Kelbi Horns) in a matter of seconds by taking Kelbi Horns along with you; this will cause days to tick over and make the boats return quickly. Give them Fish Finders (if you can) to further improve efficiency.
+???Does it matter which table I'm on?
+If you are a casual player, and just want to play without worrying about min-maxing or creating custom armor sets, then you will be just fine with any and all charm tables. Just play and have fun; there's no need to worry.
+
+If you enjoy making custom armor sets, or if you want more freedom in adding new skills to normal armor sets, then I strongly recommend you check what your charm table is at the earliest opportunity. You need to make sure you are not on one of the five cursed tables, which are very limited and consist mainly of sub-par charms. As long as your charm table isn't one of the cursed ones, you'll be fine. All the non-cursed tables are roughly equal.
+
+If you intend to min-max your character for speed-runs, or are determined to find particular rare charms that are only available on one or two tables, then obviously you will want to make sure your character is created on the table you want.
+???What are the “cursed” tables?
+Tables 11, 12, 15, 16, and 17 are “cursed”. For some reason, they have far fewer possible charms. For example, the other tables all have over 20,000 charms available, but the cursed tables only have about 200 to 800. There are very few good charms to be found on these tables, as you will see when you use this tool.
+
+There is also evidence to suggest that on table 12, you cannot obtain Rusted Fragments from the Fishing Ships, and so are unable to craft any Artian or Artian X armor.
+
+These cursed tables are probably due to an unintentional bug. Blame CAPCOM Japan, I guess. The odds of randomly landing on a cursed charm table are about 1%.
+
+The five cursed tables are listed last, at the bottom of the main page, with red text. There is an option to hide them in the Options menu.
+???Which table is the best?
+It's hard to say which one is “best”. Every (non-cursed) table has its own excellent, unique charms. It also depends on which skills you are interested in. I suggest using this tool to explore what charms there are with the skills you want.
+
+It's worth mentioning that the skill Sharpness +1 is highly sought-after by most Blademaster (as opposed to Gunner) characters. Unfortunely, it is extremely difficult to gem in with decorations. The best way to acquire this skill is through a combination of select armor pieces and a good charm. Each (non-cursed) table has some +5 Handicraft (aka Artisan) charms, which is equivalent to 8 slots worth of decorations. They are extremly useful.
+
+The best table for general-purpose Handicraft charms is table 13, due to a high concentration of +4 and +5 charms. The best table for godly +5 charms with slots (and +4 with three slots) is table 6. Table 10 is said to contain many excellent two-skill charms suitable for Blademasters, including many with Handicraft.
+???How can I change tables?
+You can't.
+
+Your character is locked to one particular charm table at character creation. It can never be changed. If you want to be on a different table, the only thing you can do is start a new character and hope for a different one.
+
+If you are stuck on a cursed table but don't want to start a new character, then… you're screwed.
+???How can I get the table I want?
+Your charm table is determined by the current system time of your 3DS or Wii U. By changing the system time and carefully waiting the correct amount of time, you can control which charm table a new character will be assigned to. You first need to turn off your wireless and set your 3DS/Wii U system date to Jan 21, 2012 at 00:00 (Midnight; all times are AM). Then, use a watch or timer to keep an eye on the system time as you load up the game. You need to select “New Game” during the following times:
+
+Table 1: 00:14:11 to 00:14:13
+Table 2: 02:14:39 to 02:14:42
+Table 3: 00:11:28 to 00:11:30
+Table 4: 00:05:47 to 00:05:49
+Table 5: 00:56:43 to 00:56:45
+Table 6: 00:42:17 to 00:42:20
+Table 7: 01:43:58 to 01:44:01
+Table 8: 09:25:48 to 09:25:51
+Table 9: 07:09:58 to 07:10:01
+Table 10: 00:14:43 to 00:14:45
+Table 13: 00:07:46 to 00:07:48
+Table 14: 00:17:02 to 00:17:05
+
+I won't list the cursed tables here, though times are available if you search online. These times work on both the Japanese and NA/EU versions of the game. To confirm your table, play through the story until you unlock the Fishmongress, then use the Moga Coast fishing results to find your actual table.
+
+???-
+???What does “Show All Charms” do?
+By default, no results are shown if no skills are specified and the number of slots required is less than three. This option shows those results, and allows you to see every single charm on every table.
+
+This can be slow.
+???What are charms?
+Charms are extra pieces of equipment that you can find in-game. They give you skill points, and can also contain extra slots for decorations. They are very useful for adding new skills to your armor set, and facilitate creating custom, mixed armor sets.
+
+Charms are randomly generated according to which charm table your character is on. Some of them are extremely powerful… and extremely rare. However, there are many common charms that are still very useful.
+
+There are four types of charms: Mystery, Shining, Timeworn, and Weathered. Mystery charms have generally mediocre skills at small values, but can be found early on in the game. Shining and Timeworn charms are only available in High-rank, but have many useful skills with large numbers of points. Weathered charms are only available at G-rank, but can give points towards very rare skills, and can give massive quantities of points to many other useful skills.
+???What do the different charm colors mean?
+***There are four colors of charm: white, yellow, red, and blue. These correspond to the four types of charm:
+
+White: Mystery Charms (Low-Rank)
+Yellow: Shining Charms (High-Rank)
+Red: Timeworn Charms (High-Rank)
+Blue: Weathered Charms (G-Rank)
+
+By end-game, Timeworn and Shining Charms are commonplace, but Weathered Charms are still somewhat rare.
+???Where can I find charms in-game?
+You are given a unique Auto-Guard +10 charm as part of the story. It is the only charm that can grant this skill; no random charm ever gives points towards it… however, this skill is almost useless and you shouldn't be using it anyway.
+
+You will receive a few charms naturally, just by completing quests as you play through the game. They are given out alongside other quest rewards at the end of the quest. Not all quests do this, though. It's usually the harder quests, or quests with multiple bosses. By the time you reach end-game, you will already have a respectable library of charms at your disposal.
+
+You can also mine for charms with Pickaxes. Most maps have a couple of mining points that can produce charms, but the Volcano area in particular has many such mining points. You can also gather charms from most of the bone piles in the secret starting areas.
+
+Note that all charms are found unidentified. You will find out what skills they give at the end of the quest when they are appraised.
+???What are the best charms?
+The best charms are those with a large amount of points towards good skills that are hard to gem in with decorations. Sharpness +1 and Charm Chaser are two good examples, so charms with +5 (or more) to these skills are very valuable. Ultimately though, the “best” charms really depend on which skills you want. You should use this tool to explore all the possibilities!
+
+That said, here are some charms that I personally consider to be pretty damn awesome:
+
++5 Handicraft, +7 FreeElemnt: table 10
++5 Handicraft, +3 Sharpness: table 9
++5 Handicraft, 2 slots: tables 1, 6
++5 Handicraft, +4 KO: table 9
++4 Handicraft, +10 Expert: table 14
++4 Handicraft, 3 slots: tables 3, 4, 6
++5 Sharpness, 2 slots: tables 1, 3, 8, 9, 13
++5 Sharpness, +10 Expert: table 13
++4 Sharpness, +10 Maestro: table 10
++5 FastCharge, +10 Expert: tables 3, 7
++5 Tenderizer, +10 Attack: table 6
++5 Normal Up, +8 Attack: table 4
++5 PunishDraw, +10 Expert: table 3
+???Should I spend time farming charms?
+If you just want to play the game, perhaps make some custom, mixed armor sets? No, there is no particular need to farm for charms.
+
+If you want to find a godly, rare charm that only appears once on your charm table? Yes, you most likely will need to farm, unless you are incredibly lucky.
+???What's the best way to farm for charms?
+Over the course of the game, you will likely receive many Shining and Timeworn charms simply for completing quests. These will provide you with many useful charms, but if you want more (or a specific rare charm), then you can choose to go and farm for them.
+
+The first step is to create an armor set with Gathering +2 and Charm Chaser. Ironically, the set you can create depends on what charms you have… The Arzuros X armor set is an excellent place to start, but only provides +6 points, and you need 10. If you have a charm to fill in the remainder, great! Otherwise, you will need Hallowed Jhen Mohran parts to create the necessary decorations. Fortunately, you can acquire the parts you need simply by mining his back then suiciding 3x to fail the quest. It may take several runs of this.
+
+Speed Gatherer and Divine Whim are also very useful skills for making your charm farming more efficient, if you can squeeze them in.
+
+The simplest way to farm charms is to go on Volcano gathering quests (Harvest Tours) at G-rank (or High-rank) and to just run up the mountain, mining all available mining points until you reach the top, then Farcaster (or Idol Mask) back to camp to deliver the Paw Pass Ticket. Each run only takes about 4 mins and nets a handful of charms, as well as useful ores that you can craft with or sell. You can also obtain rare, rusted/weathered weapons, too.
+
+There is another method for increasing the odds of finding particular charms, known as “Charm Sniping”, which abuses the in-game RNG. It is somewhat complicated and beyond the scope of this FAQ. If you are interested, read this tutorial: http://www.gamefaqs.com/boards/642342-monster-hunter-3-ultimate/66116400
+???How hard is it to get a specific charm?
+It depends. If you only want, say, a +7 Fire Atk charm, then that's not hard to get because you can find charms with that (or better) on every charm type except for Mystery charms. However, a +4 Handicraft, 3 slot charm only has a 1 in 5400 chance for every Weathered charm you appraise. Clearly, this is not an easy one to come by.
+
+For a rough estimate of how hard it is to find a particular charm, just use this tool and look at the number of results for each table. The more matching results, the easier it is to find a charm that good or better.
+???What should I do with my charms?
+It's pretty easy to use charms to add more skills to your favorite “pure” armor set, or to remove annoying bad skills it may have.
+
+A more interesting option is use them to create your very own custom/mixed armor sets. In fact, I have created a (separate) tool for just this purpose. You can find it at this link:
+
+http://forums.minegarde.com/topic/5304-athenas-armor-set-search-for-mh3g
+
+This armor search tool can also determine which charm table you are on based on your charms.

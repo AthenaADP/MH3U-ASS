@@ -1,0 +1,334 @@
+﻿Pantalon en cuir
+Culottes nageur
+Pantalon en maille
+Hakama Yukumo
+Bottes de Loc Lac
+Grèves de chasseur
+Cuiss. de chasseur
+Grèves en alliage
+Cuiss. en alliage
+Grèves d'os
+Cuissardes d'os
+Bottes Bnahabra
+Pantalon Bnahabra
+Grèves Rhenoplos
+Cuissardes Rhenoplos
+Grèves Jaggi
+Cuissardes Jaggi
+Grèves Arzuros
+Cuissardes Arzuros
+Grèves Wroggi
+Cuissardes Wroggi
+Grèves Qurupeco
+Cuissardes Qurupeco
+Grèves Ludroth
+Cuissardes Ludroth
+Grèves Baggi
+Cuissardes Baggi
+Grèves Lagombi
+Cuissardes Lagombi
+Grèves Barroth
+Cuissardes Barroth
+Grèves Volvidon
+Cuissardes Volvidon
+Grèves Gobul
+Cuissardes Gobul
+Grèves Rathian
+Cuissardes Rathian
+Grèves Gigginox
+Cuissardes Gigginox
+Grèves en lingot
+Cuissardes en lingot
+Grèves Barioth
+Cuissardes
+Grèves Nibelsnarf
+Cuiss. Nibelsnarf
+Bottes de barde
+Guêtres de barde
+Chaussettes de clerc
+Sandales de clerc
+Grèves Lagiacrus
+Cuissardes Lagiacrus
+Grèves Rathalos
+Cuissardes Rathalos
+Grèves Duramboros
+Cuiss. Duramboros
+Grèves Diablos
+Cuissardes Diablos
+Grèves Uragaan
+Cuissardes Uragaan
+Grèves Agnaktor
+Cuissardes Agnaktor
+Grèves Helios
+Cuissardes Helios
+Grèves Selene
+Cuissardes Selene
+Grèves en cuir S
+Cuissardes en cuir S
+Hakama ciel Yukumo
+Hakama terre Yukumo
+Grèves en maille S
+Cuiss. en maille S
+Bottes de Loc Lac S
+Guêtres de Loc Lac S
+Grèves de chasseur S
+Cuiss. de chasseur S
+Culottes nageur S
+Cuissardes nageur S
+Grèves d'os S
+Cuissardes d'os S
+Grèves en alliage S
+Cuissardes alliage S
+Bottes Bnahabra S
+Pantalon Bnahabra S
+Grèves Rhenoplos S
+Cuiss. Rhenoplos S
+Culottes Dianthus
+Culottes Campanile
+Grèves Jaggi S
+Cuissardes Jaggi S
+Grèves Arzuros S
+Cuissardes Arzuros S
+Grèves Wroggi S
+Cuissardes Wroggi S
+Grèves Baggi S
+Cuissardes Baggi S
+Grèves Lagombi S
+Cuissardes Lagombi S
+Grèves Qurupeco S
+Cuiss. Qurupeco S
+Grèves Qurupeco U
+Cuiss. Qurupeco U
+Grèves Ludroth S
+Cuiss. Ludroth S
+Grèves Ludroth U
+Cuiss. Ludroth U
+Grèves Volvidon S
+Cuiss. Volvidon S
+Jambe Aelucanth
+Patte Aelucanth
+Jambe Rhopessa
+Patte Rhopessa
+Grèves Artian
+Cuissardes Artian
+Grèves Barroth S
+Cuissardes Barroth S
+Grèves Barroth U
+Cuissardes Barroth U
+Grèves Gobul S
+Cuissardes Gobul S
+Racines Mosgharl
+Radicule Mosgharl
+Bottes de barde S
+Guêtres de barde S
+Chaussettes clerc S
+Sandales de clerc S
+Grèves Ingot S
+Cuissardes Ingot S
+Grèves Rathian S
+Cuissardes Rathian S
+Grèves Coeur Rath
+Cuiss. Coeur Rath
+Grèves Gigginox S
+Cuiss. Gigginox S
+Grèves Gigginox U
+Cuiss. Gigginox U
+Grèves Plesioth
+Cuissardes Plesioth
+Grèves Barioth S
+Cuissardes Barioth S
+Grèves Barioth U
+Cuissardes Barioth U
+Grèves Nibelsnarf S
+Cuiss. Nibelsnarf S
+Grèves Nargacuga
+Cuiss. Nargacuga
+Grèves Lagiacrus S
+Cuiss. Lagiacrus S
+Grèves Lagiacrus U
+Cuiss. Lagiacrus U
+Grèves Rathalos S
+Cuiss. Rathalos S
+Grèves Âme Rath
+Cuissardes Âme Rath
+Grèves Zinogre
+Cuissardes Zinogre
+Grèves Brachydios
+Cuiss. Brachydios
+Grèves Duramboros S
+Cuiss. Duramboros S
+Espadrill. de ranger
+Espadrill. d'archer
+Grèves Dober
+Cuissardes Dober
+Grèves Diablos S
+Cuissardes Diablos S
+Grèves Diablos U
+Cuissardes Diablos U
+Grèves Agnaktor S
+Cuiss. Agnaktor S
+Grèves Agnaktor U
+Cuiss. Agnaktor U
+Grèves Uragaan S
+Cuissardes Uragaan S
+Grèves Uragaan U
+Cuissardes Uragaan U
+Grèves Damascus
+Cuissardes Damascus
+Yamato Gusoku
+Mutsu Gusoku
+Hyuga Hakama
+Amagi Hakama
+Grèves Vangis
+Cuissardes Vangis
+Escadora Scale
+Écaille Escadora
+Jolly Roger Boots
+Jolly Roger Feet
+Jambières cuir noir
+Pantalon cuir noir
+Street Jeans
+Street Denim
+Bottes Bnahabra X
+Pantalon Bnahabra X
+Grèves Rhenoplos X
+Cuiss. Rhenoplos X
+Cheville Chakra
+Racines Mosgharl X
+Radicules Mosgharl X
+Grèves Jaggi X
+Cuissardes Jaggi X
+Grèves Baggi X
+Cuissardes Baggi X
+Grèves Wroggi X
+Cuissardes Wroggi X
+Grèves Arzuros X
+Cuissardes Arzuros X
+Grèves Lagombi X
+Cuissardes Lagombi X
+Grèves Volvidon X
+Cuiss. Volvidon X
+Grèves Ingot X
+Cuissardes Ingot X
+Pantalon Dianthus
+Pantalon Campanile
+Chaussettes de marin
+Sandales de marin
+Grèves Qurupeco X
+Cuiss. Qurupeco X
+Grèves Qurupeco Z
+Cuiss. Qurupeco Z
+Grèves Ludroth X
+Cuissardes Ludroth X
+Grèves Ludroth Z
+Cuissardes Ludroth Z
+Grèves Artian X
+Cuissardes Artian X
+Grèves Plesioth X
+Cuiss. Plesioth X
+Grèves Plesioth Z
+Cuiss. Plesioth Z
+Grèves Rathian X
+Cuiss. Rathian X
+Grèves Coeur Rath Z
+Cuiss. Coeur Rath Z
+Bottes de barde X
+Guêtres de barde X
+Chaussettes clerc X
+Sandales de clerc X
+Espadrilles rôdeur
+Espadrill. mortelles
+Grèves Barioth X
+Cuissardes Barioth X
+Grèves Barioth Z
+Cuissardes Barioth Z
+Grèves Barroth X
+Cuissardes Barroth X
+Grèves Barroth Z
+Cuissardes Barroth Z
+Grèves Gobul X
+Cuissardes Gobul X
+Grèves Gigginox X
+Cuiss. Gigginox X
+Grèves Gigginox Z
+Cuiss. Gigginox Z
+Grèves Nibelsnarf X
+Cuiss. Nibelsnarf X
+Grèves Duramboros X
+Cuiss. Duramboros X
+Grèves Duramboros Z
+Cuiss. Duramboros Z
+Grèves Nargacuga X
+Cuiss. Nargacuga X
+Grèves Nargacuga Z
+Cuiss. Nargacuga Z
+Grèves Helios X
+Cuissardes Helios X
+Grèves Selene X
+Cuissardes Selene X
+Grèves Helios Z
+Cuissardes Helios Z
+Grèves Selene Z
+Cuissardes Selene Z
+Jambe Aelucanth X
+Patte Aelucanth X
+Jambe Rhopessa X
+Patte Rhopessa X
+Grèves Rathalos X
+Cuiss. Rathalos X
+Grèves Âme Rath Z
+Cuiss. Âme Rath Z
+Grèves Diablos X
+Cuissardes Diablos X
+Grèves Diablos Z
+Cuissardes Diablos Z
+Grèves Agnaktor X
+Cuiss. Agnaktor X
+Grèves Agnaktor Z
+Cuiss. Agnaktor Z
+Grèves Brachydios X
+Cuiss. Brachydios X
+Grèves Lagiacrus X
+Cuiss. Lagiacrus X
+Grèves Lagiacrus Z
+Cuiss. Lagiacrus Z
+Grèves Uragaan X
+Cuissardes Uragaan X
+Grèves Uragaan Z
+Cuissardes Uragaan Z
+Grèves Zinogre X
+Cuissardes Zinogre X
+Grèves Zinogre Z
+Cuissardes Zinogre Z
+Grèves Dober X
+Cuissardes Dober X
+Grèves Damascus X
+Cuiss. Damascus X
+Grèves Vangis X
+Cuissardes Vangis X
+Guêtres Lambent
+Guêtres Silhouette
+Grèves Sol argent
+Cuiss. Sol argent
+Grèves Lune or
+Cuiss. Lune or
+Grand Yamato Gusoku
+Grand Mutsu Gusoku
+Grand Hyuga Hakama
+Grand Amagi Hakama
+Y. Gusoku parfait
+Mutsu Gusoku parfait
+Hyuga Hakama parfait
+Amagi Hakama parfait
+Grèves Nether
+Cuissardes Nether
+Jambières Miralis
+Talons Miralis
+Training Boots (B)
+Training Boots (G)
+Jolly Roger Boots X
+Jolly Roger Pants X
+Escadora Scale X
+Écaille Escadora X
+ブルースターブーツ
+ブルースターフット

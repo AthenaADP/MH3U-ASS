@@ -1,0 +1,108 @@
+﻿(Deutsch-Übersetzung von Reaven)
+&Datei
+&Optionen
+&Sprache
+&Hilfe
+&Laden
+&Speichern
+&Speichern
+B&eenden
+&Zurücksetzen
+Erlaube &Negativskills
+Erlaube &Piercings
+Erlaube &Eventrüstungen
+Allow &Japanese-Only DLC
+Erlaube &Low Rank Rüstungen
+&Skills alphabetisch sortieren
+Auf &Updates überprüfen
+&Über
+&Eigene
+&Importieren
+&Schnellsuche
+&Erweiterte Suche
+&Abbrechen
+&Standard
+&Keine
+Keine
+Keine
+&Suchen
+Keine &auswählen
+Beste &auswählen
+&Eintragen
+Lö&schen
+Alle &löschen
+&hoch
+&runter
+&Trimmen
+&Schließen
+&Nächste
+Tanzia Stufe
+Dorf Stufe
+Max. Waffen Slots
+Mann
+Frau
+Nach Talisman filtern
+Sortieren nach
+Alle
+Drachenabwehr
+Feuerabwehr
+Eisabwehr
+Donnerabwehr
+Wasserabwehr
+Ausgangsverteidigung
+Maximalverteidigung
+Schwierigkeit
+Seltenheit
+Freie Slots
+Familie
+Extra Skills
+Talismane
+Keine Talismane verwenden
+Meine Talismane verwenden
+Talismane mit Slots verwenden
+Talismane mit einem Skill verwenden
+Talismane mit zwei Skills verwenden
+Skills
+Skill Filter
+Klingenmeister
+Schütze
+Rüstungsteile Filtern
+Talismane importieren
+Charaktere
+Bestehende Talismane löschen
+Bist Du sicher?
+&Sortieren
+Slots
+(keine)
+1 Slot frei
+%1 Slots frei
+ (oder sonstiges mit 1 Slot)
+ (oder sonstiges mit %1 Slots)
+ (oder sonstiges mit Rumpf verst.)
+Gefundene Sets:
+Zeige die ersten %1 Ergebnisse:
+MasaxMH Charm data
+Datei ist fehlerhaft.
+Version
+Finden
+Du Cheater x)
+Fehler
+bis
+Verteidigung
+Table
+Ergebnisse
+Charm Table
+???
+Alle
+&Charmtable herausfinden
+ %1 Talismane, passend zum Table %2 Gefunden
+ %1 Talismane auf Table %2 gefunden
+Fehlgeschlagen, deinen Charmtable zu identifizieren. Füge mehr Talismane deiner Liste hinzu.
+Unbekannter Talisman
+Sorry. :(
+Alle Talismane löschen
+ASS Einstellungen
+&Maximale Ergebnisse
+Namen der &Dekorationen ausgeben
+%1-%2 Vert, %3 Feu, %4 Was, %5 Eis, %6 Don, %7 Dra
+Juwel

@@ -1,0 +1,87 @@
+#Format: NumSlots,Skill1,Points1,Skill2,Points2
+0,Stun,8,,
+0,Auto-Guard,10,,
+0,Fire Res,6,,
+0,Gluttony,8,,
+1,Bomb Boost,5,,
+0,Hunger,2,Attack,7
+0,TeamPlayer,3,,
+0,Oxygen,3,,
+0,Guard,6,,
+0,Stam Drain,6,Water Atk,6
+0,KO,5,Sheathing,2
+0,Normal Up,5,,
+1,ThunderAtk,2,Stam Recov,-2
+0,Tenderizer,2,Psychic,2
+0,Poison,5,Wide-Range,-5
+0,Sleep,3,Def Lock,3
+0,Sleep,4,Para C+,5
+0,Health,7,Heat Res,10
+0,Protection,3,Combo Rate,5
+0,Expert,1,CurrentRes,9
+0,Stam Drain,4,Flame Aura,7
+0,Constitutn,5,Water Res,6
+0,Constitutn,6,,
+1,Evasion,5,Oxygen,-3
+0,Dragon Res,3,Sense,4
+0,Sharpener,3,Transportr,1
+0,Reload Spd,4,,
+0,Normal S+,5,Dragon Res,3
+0,Normal S+,3,Perception,7
+0,Normal S+,6,TeamLeader,-4
+0,Pellet S+,5,,
+0,Slicing S+,5,,
+0,Slime S+,5,,
+0,Maestro,5,,
+1,Bomb Boost,5,,
+0,Wide-Range,8,Expert,-1
+0,Swimming,5,TeamLeader,-3
+0,Wide-Range,7,Exhaust C+,8
+0,Psychic,8,Hunger,4
+0,Potential,5,,
+0,Expert,1,Wide-Range,5
+0,Eating,3,,
+0,Paralysis,5,,
+0,Antiseptic,6,,
+0,Tremor Res,6,,
+0,Combo Rate,9,,
+0,Whim,6,,
+0,Transportr,6,,
+2,Recoil,3,Rec Speed,3
+0,Destroyer,5,Sea Legs,1
+0,FastCharge,3,Destroyer,3
+0,Status,5,Gloves Off,4
+0,Sheathing,6,,
+0,Guard,5,ThunderAtk,8
+0,Fire Atk,7,Stam Recov,2
+0,Water Atk,5,Guard Up,-1
+1,Water Atk,4,ThunderRes,5
+0,ThunderAtk,7,Water Res,3
+0,ThunderAtk,6,Fate,2
+0,Dragon Atk,7,FastCharge,2
+2,Dragon Atk,2,Clust S+,-7
+2,TeamPlayer,5,,
+0,FastCharge,4,,
+0,FastCharge,3,Destroyer,3
+0,Stam Drain,6,Water Atk,6
+0,Stamina,4,Maestro,8
+3,Wind Res,3,Water Atk,-9
+0,Charmer,6,,
+0,Destroyer,4,FreeElemnt,6
+0,Ice Atk,5,,
+0,Dragon Atk,7,Defense,9
+0,Handicraft,5,Potential,2
+0,Evasion,2,Transportr,10
+0,Antiseptic,7,TeamLeader,7
+0,Ice Atk,7,Attack,10
+0,Guard,4,Dragon Res,13
+0,Water Atk,7,Survivor,3
+0,Potential,6,Dragon Atk,-6
+2,ThunderAtk,6,,
+0,Oxygen,6,Gathering,13
+3,Rec Level,2,,
+0,Evasion,3,Pierce Up,3
+0,Sharpness,4,Rec Speed,11
+1,Hunger,8,,
+0,Water Atk,5,Ice Res,11
+3,Blight Res,3,KO,-1

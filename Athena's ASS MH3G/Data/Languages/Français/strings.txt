@@ -1,0 +1,108 @@
+﻿(Traduction française : RainbowRollD)
+&Fichier
+&Options
+&Langue
+&Aide
+&Importer une recherche
+&Exporter la recherche
+En&registrer
+&Quitter
+&Réinitialiser les paramètres
+Autoriser les talents &négatifs
+Autoriser les &piercings
+Autoriser les armures &DLC
+Autoriser les armures DLC &japonaises (MH3G)
+Autoriser les armures &bas rang
+&Trier les talents de A à Z
+&Vérifier les mises à jour…
+À &propos
+&Mes talismans
+&Importer
+&Recherche rapide
+Recherche a&vancée
+A&nnuler
+Par &défaut
+Au&cune
+Aucun talisman requis
+Aucun
+&Rechercher
+A&ucun
+&Meilleurs
+&Ajouter le talisman
+&Effacer
+Tout e&ffacer
+&Monter
+De&scendre
+Eff. dou&blons
+&Fermer
+&Suivant
+Niv. Port (★)
+Niv. Village (★)
+Fentes maxi (arme)
+Homme
+Femme
+Filtrer résultats selon talisman :
+Ordre des résultats :
+Tout (avec ou sans talisman)
+Résistance dragon 
+Résistance feu 
+Résistance glace 
+Résistance foudre 
+Résistance eau 
+Défense de base
+Défense maximum
+Difficulté
+Rareté
+Nombre de fentes libres
+Avec le plus de parties du même set
+Talents supplémentaires
+Type talisman (param. de recherche)
+Ne pas utiliser de talisman
+Utiliser mes talismans
+Tali. avec 1-3 fentes (sans talent)
+Talismans avec 0 ou 1 talent
+Tali. avec 0 à 2 talent(s)
+Talents désirés
+Catégorie
+Épéiste
+Artilleur
+Cochez les pièces d'armure à utiliser (par défaut, seules les pièces les plus intéressantes seront cochées) :
+Importer talismans depuis fichier .csv MasaxMH
+Personnages
+Effacer liste actuelle de talis.
+Confirmer la suppression ?
+&Trier
+Fentes
+(aucun)
+1 fente libre
+%1 fentes libres
+ (ou toute autre pièce ayant 1 fente)
+ (ou toute autre pièce ayant %1 fentes)
+ (ou toute autre pièce ayant Torse +)
+Nombre de possibilités :
+Affichage des %1 premières possibilités :
+MasaxMH Charm data
+Fichier corrompu.
+Version
+Chercher dans les résultats (pièce d'armure, talent…)
+Attention : des talismans impossibles à obtenir ont été détectés. Seriez-vous un tricheur ?
+Erreur
+à
+Défense 
+Table
+Résultats
+Table aléat. (T)
+???
+Toutes
+&Détecter table
+La détection a trouvé %1 talisman(s) présent(s) uniquement dans la table %2
+La détection a trouvé %1 talismans appartenant tous à la table %2
+Impossible de déterminer précisément votre table aléatoire (T). Ajoutez plus de talismans dans « Mes talismans » – de préférence des talismans ayant deux talents, une rareté élevée ou 1/2/3 fentes.
+Inexistant sur cette table
+Pas de bol. :(
+Tout supprimer
+Recherche ASS
+Nombre &maximum de résultats
+Afficher le nom des dé&corations
+Défense %1-%2, %3 feu, %4 eau, %5 glace, %6 foudre, %7 dragon
+[joyau]
